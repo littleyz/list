@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: WebStack
-subtitle: 一个基于webstack的hexo主题。
-keywords: hexo,webstack,theme
-description: 一个基于webstack的hexo主题。
-author: HCLonely
+title: 天一生水
+subtitle: 网址导航
+keywords: 天一生水,安防,独立博客,网址
+description: 收集整理的关于安防，个人独立博客，常用工具资源的网址。
+author: 天一生水
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://webstack.hclonely.com
+url: https://
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
