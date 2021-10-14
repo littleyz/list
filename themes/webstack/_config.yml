@@ -17,13 +17,13 @@ menu:
   - name: 独立博客
     icon: far fa-star
     config: blog
-  - name: 其他工具
+  - name: 工具资源
     icon: fas fa-tools
     submenu:
-      - name: 开发工具
+      - name: 常用工具
         icon: fas fa-tools
         config: devTools
-      - name: 我的博客
+      - name: 有用资源
         icon: fas fa-blog
         config: myBlog
   - name: 安防行业
@@ -75,11 +75,6 @@ menu:
         icon: fas fa-sitemap
         config: org
 
-testPage:
-  - name: Child Page
-    url: /child
-    img: /images/logos/myblog.png
-    description: 子页面测试
 devTools:
   - name: Wetransfer
     url: https://wetransfer.com/
@@ -87,7 +82,7 @@ devTools:
     description: 短期文件存储分享网站。
   - name: 奶牛快传
     url: https://cowtransfer.com/
-    img: /images/logos/cowtransfer.png
+    img: /images/logos/ct.png
     description: 国内山寨wetransfer的网站。
   - name: 在线PS
     url: https://ps.gaoding.com/
@@ -115,10 +110,10 @@ devTools:
     description: 在线画网络拓扑图，流程图。
 
 myBlog:
-  - name: HCLonely Blog
-    url: https://blog.hclonely.com/
+  - name: 天一生水
+    url: https://www.jiangyu.org
     img: /images/logos/myblog.png
-    description: 一个懒人的博客。
+    description: 一蓑烟雨任平生。
 
 cctvtools:
   - name: 海康安防计算器
