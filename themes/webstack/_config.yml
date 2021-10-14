@@ -14,9 +14,6 @@ search: true
 
 
 menu:
-  - name: 安防
-    icon: far fa-star
-    config: testPage
   - name: 独立博客
     icon: far fa-star
     config: blog
