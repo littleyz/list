@@ -2,8 +2,8 @@ favicon: /logo-jiangyu.png
 banner: 
 
 logo:
-  expanded: /logo.png
-  collapsed: /logo-jiangyu.png
+  expanded: /images/logo.png
+  collapsed: /images/logo-jiangyu.png
   dark: 
 
 flag:
