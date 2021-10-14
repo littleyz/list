@@ -84,7 +84,7 @@ testPage:
     img: /images/logos/myblog.png
     description: 子页面测试
 devTools:
-- name: Wetransfer
+  - name: Wetransfer
     url: https://wetransfer.com/
     img: /images/logos/wt.png
     description: 短期文件存储分享网站。
