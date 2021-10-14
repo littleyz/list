@@ -32,6 +32,9 @@ menu:
   - name: 安防行业
     icon: fas fa-shield-alt
     submenu:
+      - name: 安防工具
+        icon: fas fa-tools
+        config: cctvtools
       - name: 视频监控
         icon: fas fa-video
         config: video
@@ -81,20 +84,66 @@ testPage:
     img: /images/logos/myblog.png
     description: 子页面测试
 devTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
+- name: Wetransfer
+    url: https://wetransfer.com/
+    img: /images/logos/wt.png
+    description: 短期文件存储分享网站。
+  - name: 奶牛快传
+    url: https://cowtransfer.com/
+    img: /images/logos/cowtransfer.png
+    description: 国内山寨wetransfer的网站。
+  - name: 在线PS
+    url: https://ps.gaoding.com/
+    img: https://ps.gaoding.com/favicon.ico
+    description: 在外面偶尔需要PS，但是电脑没装软件，可以使用网页版的在线PS。
+  - name: 百度脑图
+    url: https://naotu.baidu.com/
+    img: https://naotu.baidu.com/favicon.ico
+    description: 百度脑图，便捷的脑图编辑工具- 免安装 云存储。
+  - name: smallpdf
+    url: https://smallpdf.com/cn
+    img: https://smallpdf.com/favicon.png
+    description: 功能一应俱全、简单好用的线上 PDF 工具。
+  - name: 在线电视
+    url: http://ivi.bupt.edu.cn/
+    img: 
+    description: 在线电视信号资源，以备不时之需。
+  - name: unsplash
+    url: https://unsplash.com/
+    img: https://unsplash.com/favicon-32x32.png
+    description: 免费版权的图片素材网站。
+  - name: Flowchart Maker &amp; Online Diagram Software
+    url:  https://app.diagrams.net/
+    img: 
+    description: 在线画网络拓扑图，流程图。
 
 myBlog:
   - name: HCLonely Blog
     url: https://blog.hclonely.com/
     img: /images/logos/myblog.png
     description: 一个懒人的博客。
+
+cctvtools:
+  - name: 海康安防计算器
+    url: https://h5proxy.hikvision.com/jf/videocal/index.html#/
+    img: 
+    description: 海康安防计算器。
+  - name: 大华安防计算器
+    url: https://www.dahuatech.com/support/work/#/home
+    img: 
+    description: 大华安防计算器。
+  - name: Axis镜头选型计算
+    url: https://www.axis.com/en-us/tools/lens-calculator
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    description: Axis镜头选型计算工具。
+  - name: Axis工具
+    url: https://www.axis.com/en-us/tools
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    description: Axis工具
+  - name: JVSG
+    url: http://cn.jvsg.com/
+    img: 
+    description: 功能比较强大的安防视频监控设计工具软件，但是是收费的。
 
 video:
   - name: 海康威视
