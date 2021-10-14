@@ -23,9 +23,9 @@ menu:
       - name: 常用工具
         icon: fas fa-tools
         config: devTools
-      - name: 有用资源
+      - name: 常用软件
         icon: fas fa-blog
-        config: myBlog
+        config: mysoft
   - name: 安防行业
     icon: fas fa-shield-alt
     submenu:
@@ -105,11 +105,11 @@ devTools:
     img: /images/logos/diagrams.png
     description: 在线画网络拓扑图，流程图。
 
-myBlog:
-  - name: 天一生水
-    url: https://www.jiangyu.org
-    img: /images/logos/myblog.png
-    description: 一蓑烟雨任平生。
+mysoft:
+  - name: itellyou
+    url: https://next.itellyou.cn/
+    img: /images/logos/itellu.ico
+    description: 提供可靠的Microsoft原版软件。
 
 cctvtools:
   - name: 海康安防计算器
