@@ -17,9 +17,9 @@ menu:
   - name: 安防
     icon: far fa-star
     config: testPage
-  - name: 常用工具
+  - name: 独立博客
     icon: far fa-star
-    config: hotTools
+    config: blog
   - name: 其他工具
     icon: fas fa-tools
     submenu:
