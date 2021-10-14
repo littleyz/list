@@ -1,10 +1,10 @@
 favicon: /logo-jiangyu.png
-banner: /images/webstack_banner_cn.png
+banner: 
 
 logo:
-  expanded: /images/logo@2x.png
-  collapsed: /images/logo-collapsed@2x.png
-  dark: /images/logo_dark@2x.png
+  expanded: /logo.png
+  collapsed: /logo-jiangyu.png
+  dark: 
 
 flag:
   icon: flag-cn
