@@ -114,23 +114,23 @@ mysoft:
 cctvtools:
   - name: 海康安防计算器
     url: https://h5proxy.hikvision.com/jf/videocal/index.html#/
-    img: 
+    img: /images/logos/hikvision.gif
     description: 海康安防计算器。
   - name: 大华安防计算器
     url: https://www.dahuatech.com/support/work/#/home
-    img: 
+    img: /images/logos/dahuatech.ico
     description: 大华安防计算器。
   - name: Axis镜头选型计算
     url: https://www.axis.com/en-us/tools/lens-calculator
-    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    img: /images/logos/axis.ico
     description: Axis镜头选型计算工具。
   - name: Axis工具
     url: https://www.axis.com/en-us/tools
-    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/favicon.ico
+    img: /images/logos/axis.ico
     description: Axis工具
   - name: JVSG
     url: http://cn.jvsg.com/
-    img: 
+    img: /images/logos/jvsg.png
     description: 功能比较强大的安防视频监控设计工具软件，但是是收费的。
 
 video:
