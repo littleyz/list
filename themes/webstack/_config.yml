@@ -310,21 +310,10 @@ org:
     description: 国际电联。   
 
 about:
-  url: /about/
+  url: https://www.jiangyu.org/
   icon: far fa-heart
   name: 关于本站
 
-aboutPage:
-  website:
-    head: 关于本站
-    html: '<blockquote><p>本站是hexo主题<a href="https://github.com/HCLonely/hexo-theme-webstack">hexo-theme-webstack</a>的demo站。</p></blockquote>'
-  webmaster:
-    head: 关于站长
-    name: HCLonely
-    url: https://blog.hclonely.com/
-    img: /images/logos/myblog.png
-    description: 懒人一个
-    html: '<br /><blockquote><p>本站是<a href="https://github.com/HCLonely">HCLonely</a>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a>项目做的一款<a href="https://hexo.io/">Hexo</a>主题。</p></blockquote>'
 
 since: 2020
 
