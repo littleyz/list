@@ -200,10 +200,14 @@ dsp:
     description: 雄迈集成电路有限公司。
 
 module:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: 天视通
+    url: http://tpsee.com/
+    img: /images/logos/topsee.ico
+    description: 天视通,topsee,seetong,网络摄像机模组。
+  - name: 雄迈
+    url: http://www.xiongmaitech.com/
+    img: /images/logos/xm.ico
+    description: 雄迈摄像机，DVR，NVR模组。
 
 P2P:
   - name: 海康威视
