@@ -1,4 +1,4 @@
-favicon: /favicon.ico
+favicon: /logo-jiangyu.png
 banner: /images/webstack_banner_cn.png
 
 logo:
@@ -8,7 +8,7 @@ logo:
 
 flag:
   icon: flag-cn
-  name: Chinese
+  name: 中文
 
 search: true
 
@@ -29,6 +29,51 @@ menu:
       - name: 我的博客
         icon: fas fa-blog
         config: myBlog
+  - name: 安防行业
+    icon: fas fa-shield-alt
+    submenu:
+      - name: 视频监控
+        icon: fas fa-video
+        config: video
+      - name: 图像传感器
+        icon: fas fa-photo-video
+        config: sensor
+      - name: 处理器DSP
+        icon: fas fa-microchip
+        config: dsp
+      - name: 模组方案商
+        icon: fas fa-cube
+        config: module
+      - name: P2P平台
+        icon: fas fa-cloud
+        config: P2P
+      - name: 系统平台
+        icon: fas fa-server
+        config: vms
+      - name: 系统集成商
+        icon: fas fa-square-full
+        config: supply
+      - name: AI智能算法
+        icon: fas fa-dna
+        config: AI
+      - name: 消费类摄像机
+        icon: fas fa-wifi
+        config: wifi
+      - name: 行业网站
+        icon: fas fa-sitemap
+        config: sitemap
+      - name: 热成像仪
+        icon: fas fa-thermometer-full
+        config: ir
+      - name: 存储
+        icon: fas fa-hdd
+        config: hdd
+      - name: 镜头
+        icon: fas fa-circle
+        config: lens
+      - name: 行业组织
+        icon: fas fa-org
+        config: org
 
 testPage:
   - name: Child Page
@@ -50,6 +95,170 @@ myBlog:
     url: https://blog.hclonely.com/
     img: /images/logos/myblog.png
     description: 一个懒人的博客。
+
+video:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+  - name: 大华
+    url: https://www.dahuatech.com/
+    img: https://www.dahuatech.com/bocweb/web/img/logo.png
+    description: 中国第二大安防视频监控产品提供商。
+  - name: 宇视
+    url: https://cn.uniview.com/
+    img: https://cn.uniview.com/tres/images/Yushi_Site/blue/logo.png
+    description: 中国第三大安防视频监控产品提供商。
+  - name: Axis
+    url: https://www.axis.com/zh-cn
+    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/images/axis_logo.png
+    description: 全球第三大安防视频监控产品提供商。
+
+sensor:
+  - name: SONY
+    url: https://www.sony-semicon.co.jp/e/
+    img: https://www.sony-semicon.co.jp/common/images/sony.gif
+    description: SONY图像传感器。
+  - name: OmniVision
+    url: https://www.ovt.com/
+    img: https://www.ovt.com/download/sites/14/share.jpg
+    description: 中资收购的美国图像传感器品牌。
+  - name: 思特威(smartsens)
+    url: http://www.smartsenstech.com/
+    img: http://www.smartsenstech.com/templates/sitewei/favicon.ico
+    description: 中国新兴的从事CMOS图像传感器芯片产品研发、设计及服务的企业。
+
+dsp:
+  - name: 华为海思
+    url: http://www.hisilicon.com/
+    img: http://www.hisilicon.com/Assets/Hisilicon/img/favicon.ico
+    description: 华为海思。
+  - name: 安霸
+    url: https://www.ambarella.com.cn/
+    img: https://www.ambarella.com.cn/wp-content/themes/ambarella/img/favicons/favicon.ico
+    description: 安霸Ambarella。
+  - name: Ingenic-北京君正
+    url: http://www.ingenic.com.cn/
+    img: http://www.ingenic.com.cn/image/logo.jpg
+    description: 北京君正集成电路股份有限公司。
+  - name: 国科
+    url: http://www.gokemicro.com/
+    img: http://www.gokemicro.com/favicon.ico
+    description: 国科微电子股份有限公司。
+  - name: 富瀚
+    url: https://www.fullhan.com/
+    img: https://www.fullhan.com/theme/fuhan/images/logo.png
+    description: 上海富瀚微电子股份有限公司。
+  - name: Nextchip
+    url: http://nextchip.com/
+    img: http://www.nextchip.com/ch/images/favi_icon.ico
+    description: Nextchip.
+  - name: Techpoint
+    url: http://techpointinc.net/
+    img: http://techpointinc.net/images/logo.jpg
+    description: Techpoint.
+  - name: XM
+    url: http://www.xiongmaitech.com/
+    img: http://www.xiongmaitech.com/favicon.ico
+    description: 雄迈集成电路有限公司。
+
+module:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+
+P2P:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+
+vms:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+    
+supply:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。    
+    
+AI:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。  
+ 
+wifi:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+    
+sitemap:
+  - name: A&S台湾版
+    url: https://www.asmag.com.tw/
+    img: https://www.asmag.com/images/asmag.ico
+    description: A&S安防知识网台湾版。
+  - name: Information Security 資安人科技網
+    url: https://www.informationsecurity.com.tw/
+    img: https://www.informationsecurity.com.tw/images/info.ico
+    description: 台湾安防资讯网站。
+    
+ir:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。 
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。 
+    
+lens:
+  - name: 富士镜头
+    url: http://www.fujifilm.com.cn/products/optical_devices/
+    img: http://mvlens.fujifilm.com/favicon.ico
+    description: 富士镜头。
+  - name: 宇瞳镜头
+    url: http://www.ytot.cn/
+    img: 
+    description: 宇瞳镜头。
+  - name: Kowa
+    url: https://lenses.kowa-usa.com/25-CCTV-Lenses
+    img: 
+    description: 日本Kowa。
+  - name: Computar
+    url: https://computar.com/
+    img: 
+    description: Computar。
+  - name: 凤凰镜头
+    url: http://www.phenixoptics.com.cn/
+    img: 
+    description: 凤凰镜头。
+  - name: 舜宇光学
+    url: http://www.sunnyoptical.com/
+    img: 
+    description: 舜宇光学。
+  - name: Seiko
+    url: http://www.seiko-optic.com/seiko/indexcn.html
+    img: 
+    description: 日本精工镜头。
+    
+hdd:
+  - name: 海康威视
+    url: https://www.hikvision.com
+    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    description: 全球最大的视频安防产品提供商。
+    
+org:
+  - name: 国际电联
+    url: https://www.itu.int/zh/Pages/default.aspx
+    img: https://www.itu.int/PublishingImages/masterpage/logos/itu-favicon.ico
+    description: 国际电联。   
 
 about:
   url: /about/
