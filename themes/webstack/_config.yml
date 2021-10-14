@@ -86,27 +86,23 @@ devTools:
     description: 国内山寨wetransfer的网站。
   - name: 在线PS
     url: https://ps.gaoding.com/
-    img: https://ps.gaoding.com/favicon.ico
+    img: /images/logos/ps.ico
     description: 在外面偶尔需要PS，但是电脑没装软件，可以使用网页版的在线PS。
   - name: 百度脑图
     url: https://naotu.baidu.com/
-    img: https://naotu.baidu.com/favicon.ico
+    img: /images/logos/baidunaotu.ico
     description: 百度脑图，便捷的脑图编辑工具- 免安装 云存储。
   - name: smallpdf
     url: https://smallpdf.com/cn
-    img: https://smallpdf.com/favicon.png
+    img: /images/logos/smallpdf.png
     description: 功能一应俱全、简单好用的线上 PDF 工具。
-  - name: 在线电视
-    url: http://ivi.bupt.edu.cn/
-    img: 
-    description: 在线电视信号资源，以备不时之需。
   - name: unsplash
     url: https://unsplash.com/
-    img: https://unsplash.com/favicon-32x32.png
+    img: /images/logos/unsplash.png
     description: 免费版权的图片素材网站。
   - name: Flowchart Maker &amp; Online Diagram Software
     url:  https://app.diagrams.net/
-    img: 
+    img: /images/logos/diagrams.png
     description: 在线画网络拓扑图，流程图。
 
 myBlog:
