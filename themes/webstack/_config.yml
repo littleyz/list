@@ -136,19 +136,19 @@ cctvtools:
 video:
   - name: 海康威视
     url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
+    img: /images/logos/hikvision.gif
     description: 全球最大的视频安防产品提供商。
   - name: 大华
     url: https://www.dahuatech.com/
-    img: https://www.dahuatech.com/bocweb/web/img/logo.png
+    img: /images/logos/dahuatech.ico
     description: 中国第二大安防视频监控产品提供商。
   - name: 宇视
     url: https://cn.uniview.com/
-    img: https://cn.uniview.com/tres/images/Yushi_Site/blue/logo.png
+    img: /images/logos/uniview.ico
     description: 中国第三大安防视频监控产品提供商。
   - name: Axis
     url: https://www.axis.com/zh-cn
-    img: https://www.axis.com/sites/all/themes/axis_bootstrap_subtheme/images/axis_logo.png
+    img: /images/logos/axis.ico
     description: 全球第三大安防视频监控产品提供商。
 
 sensor:
