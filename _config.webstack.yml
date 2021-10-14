@@ -1,4 +1,4 @@
-favicon: /favicon.ico
+favicon: /logo-jiangyu.png
 banner: /images/webstack_banner_cn.png
 
 logo:
@@ -8,7 +8,7 @@ logo:
 
 flag:
   icon: flag-cn
-  name: Chinese
+  name: 中文
 
 search: true
 
