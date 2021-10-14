@@ -63,7 +63,7 @@ menu:
         icon: fas fa-sitemap
         config: sitemap
       - name: 热成像仪
-        icon: fas fa-thermometer-full
+        icon: fas fa-temperature-high
         config: ir
       - name: 存储
         icon: fas fa-hdd
@@ -72,7 +72,7 @@ menu:
         icon: fas fa-circle
         config: lens
       - name: 行业组织
-        icon: fas fa-org
+        icon: fas fa-sitemap
         config: org
 
 testPage:
