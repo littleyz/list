@@ -298,16 +298,32 @@ vms:
     description: 中盛益华。
     
 supply:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。    
+  - name: 高新兴
+    url: http://www.gosuncn.com/
+    img: /images/logos/gosun.ico
+    description: 全球领先的智慧城市物联网产品与服务提供商。
+  - name: 佳都
+    url: https://www.pcitech.com/en/index.html
+    img: /images/logos/pci.ico
+    description: 全球领先的智慧城市物联网产品与服务提供商。  
     
 AI:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。  
+  - name: 商汤
+    url: https://www.sensetime.com/cn
+    img: /images/logos/sense.ico
+    description: 商汤。  
+  - name: 依图
+    url: https://www.yitutech.com/
+    img: /images/logos/yitu.ico
+    description: 依图。
+  - name: 云从
+    url: https://www.cloudwalk.com/
+    img: /images/logos/cloudwalk.png
+    description: 云从。
+  - name: 旷视
+    url: https://www.megvii.com/
+    img: /images/logos/mg.ico
+    description: 旷视。
  
 wifi:
   - name: 海康威视
