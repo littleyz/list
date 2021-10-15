@@ -209,11 +209,11 @@ dsp:
   - name: Techpoint
     url: http://techpointinc.net/
     img: 
-    description: Techpoint.
+    description: TVI摄像机方案
   - name: XM
     url: http://www.xiongmaitech.com/
     img: /images/logos/xm.ico
-    description: 雄迈集成电路有限公司。
+    description: 雄迈，XM550,XM530 IPC方案，XM330/350/380 XVI摄像机方案
   - name: 安凯
     url: http://www.anyka.com/
     img: 
