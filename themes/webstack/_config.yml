@@ -111,7 +111,7 @@ devTools:
   - name: SM.MS
     url:  https://sm.ms/
     img: /images/logos/smms.ico
-    description: SM.MS图床，loli图传。
+    description: SM.MS图床，loli图床。
 
 mysoft:
   - name: itellyou
