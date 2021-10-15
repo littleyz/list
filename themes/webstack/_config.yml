@@ -164,6 +164,18 @@ sensor:
     url: http://www.smartsenstech.com/
     img: /images/logos/smartsenstech.ico
     description: 中国新兴的从事CMOS图像传感器芯片产品研发、设计及服务的企业。
+  - name: 格科微
+    url: https://www.gcoreinc.com/
+    img: /images/logos/gc.png
+    description: 位于上海的CMOS图像传感器芯片厂家，产品型号以GC开头。
+  - name: 晶相光电
+    url: https://www.soinc.com.tw/
+    img: /images/logos/soinc.png
+    description: 台湾CMOS图像传感器芯片厂家，产品型号以F,H,K,Q等命名。
+  - name: 原相
+    url: https://www.pixart.com/
+    img: /images/logos/pix.png
+    description: 台湾CMOS图像传感器芯片厂家，产品型号以PS开头。
 
 dsp:
   - name: 华为海思
