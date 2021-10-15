@@ -342,14 +342,10 @@ sitemap:
     description: 台湾安防资讯网站。
     
 ir:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。 
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。 
+  - name: Teledyne FLIR
+    url: https://www.flir.cn/
+    img: /images/logos/flir.ico
+    description: 菲力尔，世界第六感。 
     
 lens:
   - name: 富士镜头
