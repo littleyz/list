@@ -248,6 +248,14 @@ module:
     url: http://www.xiongmaitech.com/
     img: /images/logos/xm.ico
     description: 雄迈摄像机，DVR，NVR模组。
+  - name: 安佳威视
+    url: http://www.anjvision.com/
+    img: 
+    description: 源自天视通的模组厂家，以Mstar晨星，星宸SigmaStar方案为主。
+  - name: 中维尚维
+    url: http://www.sunywo.com/cn/index.shtml
+    img: /images/logos/sunywo.ico
+    description: 与雄迈类似的摄像机,DVR,NVR模组厂家。
 
 P2P:
   - name: 海康威视
