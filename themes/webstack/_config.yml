@@ -350,27 +350,27 @@ ir:
 lens:
   - name: 富士镜头
     url: http://www.fujifilm.com.cn/products/optical_devices/
-    img: http://mvlens.fujifilm.com/favicon.ico
+    img: /images/logos/fuji.ico
     description: 富士镜头。
   - name: 宇瞳镜头
     url: http://www.ytot.cn/
-    img: 
+    img: /images/logos/ytot.ico
     description: 宇瞳镜头。
   - name: Kowa
     url: https://lenses.kowa-usa.com/25-CCTV-Lenses
-    img: 
+    img: /images/logos/kowa.ico
     description: 日本Kowa。
   - name: Computar
     url: https://computar.com/
-    img: 
+    img: /images/logos/computar.ico
     description: Computar。
   - name: 凤凰镜头
     url: http://www.phenixoptics.com.cn/
-    img: 
+    img: /images/logos/phenix.png
     description: 凤凰镜头。
   - name: 舜宇光学
     url: http://www.sunnyoptical.com/
-    img: 
+    img: /images/logos/sunny.ico
     description: 舜宇光学。
   - name: Seiko
     url: http://www.seiko-optic.com/seiko/indexcn.html
