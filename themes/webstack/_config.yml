@@ -288,10 +288,14 @@ P2P:
     description: iCam365。
 
 vms:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: 泰辰，致精
+    url: http://www.unisight.com.cn/cn/index.html
+    img: /images/logos/taichen.ico
+    description: 泰辰，致精，unisight。
+  - name: 中盛益华
+    url: http://www.csvision.cn/
+    img: /images/logos/csv.ico
+    description: 中盛益华。
     
 supply:
   - name: 海康威视
