@@ -278,6 +278,14 @@ P2P:
     url: http://www.vnow.cn/index.html
     img: 
     description: goolink。
+  - name: 涂鸦智能
+    url: https://www.tuya.com/
+    img: /images/logos/tuya.ico
+    description: Smart life,tuya。
+  - name: 探鸽
+    url: https://tange.ai/
+    img: /images/logos/tange.png
+    description: iCam365。
 
 vms:
   - name: 海康威视
