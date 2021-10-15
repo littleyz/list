@@ -104,6 +104,14 @@ devTools:
     url:  https://app.diagrams.net/
     img: /images/logos/diagrams.png
     description: 在线画网络拓扑图，流程图。
+  - name: 去不图床
+    url:  https://7bu.top/
+    img: /images/logos/7bu.ico
+    description: 去不图床。
+  - name: SM.MS
+    url:  https://sm.ms/
+    img: /images/logos/smms.ico
+    description: SM.MS图床，loli图传。
 
 mysoft:
   - name: itellyou
