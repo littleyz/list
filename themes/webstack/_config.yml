@@ -326,19 +326,19 @@ AI:
     description: 旷视。
  
 wifi:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: 雄迈
+    url: http://www.xiongmaitech.com/
+    img: /images/logos/xm.ico
+    description: 超级看看，icsee，监控眼
     
 sitemap:
   - name: A&S台湾版
     url: https://www.asmag.com.tw/
-    img: https://www.asmag.com/images/asmag.ico
+    img: /images/logos/as.ico
     description: A&S安防知识网台湾版。
   - name: Information Security 資安人科技網
     url: https://www.informationsecurity.com.tw/
-    img: https://www.informationsecurity.com.tw/images/info.ico
+    img: /images/logos/asis.ico
     description: 台湾安防资讯网站。
     
 ir:
