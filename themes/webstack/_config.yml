@@ -390,8 +390,12 @@ hdd:
 org:
   - name: 国际电联
     url: https://www.itu.int/zh/Pages/default.aspx
-    img: https://www.itu.int/PublishingImages/masterpage/logos/itu-favicon.ico
-    description: 国际电联。   
+    img: /images/logos/itu.ico
+    description: 国际电联。
+  - name: ONVIF
+    url: https://www.onvif.org/
+    img: /images/logos/onvif.png
+    description: ONVIF 
 
 about:
   url: https://www.jiangyu.org/
