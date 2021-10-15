@@ -214,6 +214,30 @@ dsp:
     url: http://www.xiongmaitech.com/
     img: /images/logos/xm.ico
     description: 雄迈集成电路有限公司。
+  - name: 安凯
+    url: http://www.anyka.com/
+    img: 
+    description: 消费类摄像机芯片，AK39E系列。
+  - name: Mstar晨星
+    url: https://www.mstarsemi.com/
+    img: 
+    description: 联发科收购。
+  - name: 星宸SigmaStar
+    url: http://www.sigmastarsemi.com/
+    img: 
+    description: Mstar晨星关联公司。
+  - name: 智源/升迈(NovaTek)
+    url: https://www.novatek.com.tw/zh-CN/Home/Index
+    img: /images/logos/nov.ico
+    description: 联咏收购。
+  - name: 瑞昱Realtek
+    url: https://www.realtek.com/zh/
+    img: /images/logos/rtk.ico
+    description: 代表产品3903N，消费类。
+  - name: 瑞芯微
+    url: https://www.rock-chips.com/
+    img: 
+    description: 代表产品RV1109,RV1126。
 
 module:
   - name: 天视通
