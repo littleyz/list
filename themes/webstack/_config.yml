@@ -44,7 +44,7 @@ menu:
       - name: 模组方案商
         icon: fas fa-cube
         config: module
-      - name: P2P平台
+      - name: P2P物联网平台
         icon: fas fa-cloud
         config: P2P
       - name: 系统平台
@@ -266,10 +266,18 @@ module:
     description: 网络摄像机,NVR模组。
 
 P2P:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: UMEye
+    url: http://www.umeye.com/
+    img: 
+    description: UMEye。
+  - name: 大拿Danale
+    url: https://intl.danale.com/
+    img: /images/logos/danale.png
+    description: danale。
+  - name: 浪涛
+    url: http://www.vnow.cn/index.html
+    img: 
+    description: goolink。
 
 vms:
   - name: 海康威视
