@@ -256,6 +256,14 @@ module:
     url: http://www.sunywo.com/cn/index.shtml
     img: /images/logos/sunywo.ico
     description: 与雄迈类似的摄像机,DVR,NVR模组厂家。
+  - name: 瀚晖
+    url: http://www.hankvision.com/
+    img: /images/logos/hank.ico
+    description: 网络一体化机芯。
+  - name: 捷高
+    url: http://www.cnjabsco.com/
+    img: 
+    description: 网络摄像机,NVR模组。
 
 P2P:
   - name: 海康威视
