@@ -378,10 +378,14 @@ lens:
     description: 日本精工镜头。
     
 hdd:
-  - name: 海康威视
-    url: https://www.hikvision.com
-    img: https://www.hikvision.com/etc/clientlibs/it/resources/icons/color-logo.svg
-    description: 全球最大的视频安防产品提供商。
+  - name: 希捷
+    url: https://www.seagate.com/cn/zh/
+    img: /images/logos/seagate.ico
+    description: Seagate。
+  - name: 西数
+    url: https://www.westerndigital.com/zh-cn
+    img: /images/logos/wd.ico
+    description: Western Digital。
     
 org:
   - name: 国际电联
