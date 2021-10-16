@@ -334,13 +334,13 @@ AI:
     description: 旷视。
  
 wifi:
-  - name: 雄迈
+  - name: 超级看看
     url: http://www.xiongmaitech.com/
-    img: /images/logos/xm.ico
-    description: 超级看看，icsee，监控眼
+    img: /images/logos/icsee.png
+    description: 雄迈，超级看看，icsee，监控眼
   - name: V380
     url: http://www.av380.cn/
-    img: /images/logos/v380.png
+    img: /images/logos/av380.png
     description: 广州宏视，V380
     
 sitemap:
