@@ -112,6 +112,14 @@ devTools:
     url:  https://sm.ms/
     img: /images/logos/smms.ico
     description: SM.MS图床，loli图床。
+  - name: APK下载
+    url:  https://apkdl.in/
+    img: /images/logos/apkdl.ico
+    description: 下载apk安装包。
+  - name: 语雀
+    url:  https://www.yuque.com/
+    img: /images/logos/yuque.png
+    description: 阿里巴巴出品的云端知识库工具。
 
 mysoft:
   - name: itellyou
