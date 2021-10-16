@@ -408,6 +408,10 @@ org:
     url: https://www.onvif.org/
     img: /images/logos/onvif.png
     description: ONVIF 
+  - name: PSIA
+    url: https://psialliance.org/
+    img: /images/logos/psia.gif
+    description: Physical Security Interoperability Alliance,物理安防互操作性联盟
 
 about:
   url: https://www.jiangyu.org/
