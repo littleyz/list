@@ -208,7 +208,7 @@ dsp:
     description: 国科微电子股份有限公司。
   - name: 富瀚
     url: https://www.fullhan.com/
-    img: 
+    img: /images/logos/fullham.ico
     description: 上海富瀚微电子股份有限公司。
   - name: Nextchip
     url: http://nextchip.com/
@@ -216,7 +216,7 @@ dsp:
     description: Nextchip.
   - name: Techpoint
     url: http://techpointinc.net/
-    img: 
+    img: /images/logos/techpoint.jpg
     description: TVI摄像机方案
   - name: XM
     url: http://www.xiongmaitech.com/
@@ -224,15 +224,15 @@ dsp:
     description: 雄迈，XM550,XM530 IPC方案，XM330/350/380 XVI摄像机方案
   - name: 安凯
     url: http://www.anyka.com/
-    img: 
+    img: /images/logos/anyka.png
     description: 消费类摄像机芯片，AK39E系列。
   - name: Mstar晨星
     url: https://www.mstarsemi.com/
-    img: 
+    img: /images/logos/mstar.ico
     description: 联发科收购。
   - name: 星宸SigmaStar
     url: http://www.sigmastarsemi.com/
-    img: 
+    img: /images/logos/ss.png
     description: Mstar晨星关联公司。
   - name: 智源/升迈(NovaTek)
     url: https://www.novatek.com.tw/zh-CN/Home/Index
@@ -244,7 +244,7 @@ dsp:
     description: 代表产品3903N，消费类。
   - name: 瑞芯微
     url: https://www.rock-chips.com/
-    img: 
+    img: /images/logos/rk.ico
     description: 代表产品RV1109,RV1126。
 
 module:
