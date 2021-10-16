@@ -411,7 +411,15 @@ org:
   - name: PSIA
     url: https://psialliance.org/
     img: /images/logos/psia.gif
-    description: Physical Security Interoperability Alliance,物理安防互操作性联盟
+    description: 物理安防互操作性联盟,Physical Security Interoperability Alliance
+  - name: AOMedia
+    url: https://aomedia.org/
+    img: /images/logos/av.png
+    description: Alliance for Open Media,AV1,AV2视频编码
+  - name: WebRTC
+    url: https://webrtc.org/
+    img: /images/logos/webrtc.png
+    description: web that enables Real-Time Communications (RTC)
 
 about:
   url: https://www.jiangyu.org/
