@@ -102,7 +102,11 @@ share:
   - name: 分享资源
     url: https://box.jiangyu.org/
     img: /images/logos/box.png
-    description: 存储于各大网盘的资源。
+    description: 个人存储于各大网盘的资源。
+  - name: 书格
+    url: https://www.shuge.org/
+    img: /images/logos/shuge.png
+    description: 高品质的古籍，书画等资源。
 
 devTools:
   - name: Wetransfer
