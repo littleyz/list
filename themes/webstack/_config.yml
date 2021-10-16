@@ -81,16 +81,28 @@ menu:
         icon: fas fa-sitemap
         config: org
 star:
-  - name: Wetransfer
-    url: https://wetransfer.com/
-    img: /images/logos/wt.png
-    description: 短期文件存储分享网站。
+  - name: 视听资源
+    url: https://dropbox.jiangyu.org/
+    img: /images/logos/dropbox.png
+    description: 存储于阿里云网盘的视听资源。
+  - name: 分享资源
+    url: https://box.jiangyu.org/
+    img: /images/logos/box.png
+    description: 存储于各大网盘的资源。
+  - name: 少数派
+    url: https://sspai.com/
+    img: /images/logos/sspai.ico
+    description: 高效工作，品质生活。
 
 share:
-  - name: Wetransfer
-    url: https://wetransfer.com/
-    img: /images/logos/wt.png
-    description: 短期文件存储分享网站。
+  - name: 视听资源
+    url: https://dropbox.jiangyu.org/
+    img: /images/logos/dropbox.png
+    description: 存储于阿里云网盘的视听资源。
+  - name: 分享资源
+    url: https://box.jiangyu.org/
+    img: /images/logos/box.png
+    description: 存储于各大网盘的资源。
 
 devTools:
   - name: Wetransfer
