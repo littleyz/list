@@ -18,7 +18,7 @@ menu:
     icon: far fa-star
     config: star
   - name: 独立博客
-    icon: far fa-blog
+    icon: fas fa-blog
     config: blog
   - name: 工具资源
     icon: fas fa-tools
@@ -27,7 +27,7 @@ menu:
         icon: fas fa-tools
         config: devTools
       - name: 常用软件
-        icon: fas fa-uncharted
+        icon: fab fa-uncharted
         config: mysoft
       - name: 资源分享
         icon: fas fa-share
