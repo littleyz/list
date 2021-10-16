@@ -14,8 +14,11 @@ search: true
 
 
 menu:
-  - name: 独立博客
+  - name: 经常光顾
     icon: far fa-star
+    config: star
+  - name: 独立博客
+    icon: far fa-blog
     config: blog
   - name: 工具资源
     icon: fas fa-tools
@@ -24,8 +27,11 @@ menu:
         icon: fas fa-tools
         config: devTools
       - name: 常用软件
-        icon: fas fa-blog
+        icon: fas fa-uncharted
         config: mysoft
+      - name: 资源分享
+        icon: fas fa-share
+        config: share
   - name: 安防行业
     icon: fas fa-shield-alt
     submenu:
@@ -74,6 +80,17 @@ menu:
       - name: 行业组织
         icon: fas fa-sitemap
         config: org
+star:
+  - name: Wetransfer
+    url: https://wetransfer.com/
+    img: /images/logos/wt.png
+    description: 短期文件存储分享网站。
+
+share:
+  - name: Wetransfer
+    url: https://wetransfer.com/
+    img: /images/logos/wt.png
+    description: 短期文件存储分享网站。
 
 devTools:
   - name: Wetransfer
