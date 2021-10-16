@@ -32,6 +32,16 @@ menu:
       - name: 资源分享
         icon: fas fa-share
         config: share
+  - name: 网站相关
+    icon: fab fa-edge
+    submenu:
+      - name: 建站程序
+        icon: fab fa-wordpress
+        config: blogsoft
+      - name: 建站资源
+        icon: fab fa-keycdn
+        config: cdn
+
   - name: 安防行业
     icon: fas fa-shield-alt
     submenu:
@@ -164,6 +174,18 @@ mysoft:
     img: /images/logos/itellu.ico
     description: 提供可靠的Microsoft原版软件。
 
+blogsoft:
+  - name: WordPress
+    url: https://wordpress.org/
+    img: /images/logos/wordpress.ico
+    description: Blog Tool, Publishing Platform, and CMS.
+    
+cdn:
+  - name: jsDelivr
+    url: https://www.jsdelivr.com/
+    img: /images/logos/jsdelivr.png
+    description: A free, fast, and reliable CDN for open source.
+    
 cctvtools:
   - name: 海康安防计算器
     url: https://h5proxy.hikvision.com/jf/videocal/index.html#/
