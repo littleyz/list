@@ -207,6 +207,10 @@ cctvtools:
     url: http://cn.jvsg.com/
     img: /images/logos/jvsg.png
     description: 功能比较强大的安防视频监控设计工具软件，但是是收费的。
+  - name: imatest
+    url: https://www.imatest.com/
+    img: /images/logos/imatest.ico
+    description: 图像质量分析软件。
 
 video:
   - name: 海康威视
