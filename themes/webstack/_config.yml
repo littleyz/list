@@ -276,7 +276,7 @@ module:
 P2P:
   - name: UMEye
     url: http://www.umeye.com/
-    img: 
+    img: /images/logos/umeye.ico
     description: UMEye。
   - name: 大拿Danale
     url: https://intl.danale.com/
@@ -284,7 +284,7 @@ P2P:
     description: danale。
   - name: 浪涛
     url: http://www.vnow.cn/index.html
-    img: 
+    img: /images/logos/vnow.png
     description: goolink。
   - name: 涂鸦智能
     url: https://www.tuya.com/
@@ -386,7 +386,7 @@ lens:
     description: 舜宇光学。
   - name: Seiko
     url: http://www.seiko-optic.com/seiko/indexcn.html
-    img: 
+    img: /images/logos/seiko.jpg
     description: 日本精工镜头。
     
 hdd:
