@@ -258,7 +258,7 @@ module:
     description: 雄迈摄像机，DVR，NVR模组。
   - name: 安佳威视
     url: http://www.anjvision.com/
-    img: 
+    img: /images/logos/anj.ico
     description: 源自天视通的模组厂家，以Mstar晨星，星宸SigmaStar方案为主。
   - name: 中维尚维
     url: http://www.sunywo.com/cn/index.shtml
@@ -270,7 +270,7 @@ module:
     description: 网络一体化机芯。
   - name: 捷高
     url: http://www.cnjabsco.com/
-    img: 
+    img: /images/logos/jco.png
     description: 网络摄像机,NVR模组。
 
 P2P:
