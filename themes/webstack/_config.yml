@@ -338,6 +338,10 @@ wifi:
     url: http://www.xiongmaitech.com/
     img: /images/logos/xm.ico
     description: 超级看看，icsee，监控眼
+  - name: V380
+    url: http://www.av380.cn/
+    img: /images/logos/v380.png
+    description: 广州宏视，V380
     
 sitemap:
   - name: A&S台湾版
