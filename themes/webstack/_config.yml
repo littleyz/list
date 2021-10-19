@@ -177,6 +177,10 @@ mysoft:
     url: https://next.itellyou.cn/
     img: /images/logos/itellu.ico
     description: 提供可靠的Microsoft原版软件。
+  - name: 小众软件
+    url: https://www.appinn.com/
+    img: /images/logos/appinn.png
+    description: 分享免费、小巧、实用、有趣、绿色的软件。
 
 blogsoft:
   - name: WordPress
