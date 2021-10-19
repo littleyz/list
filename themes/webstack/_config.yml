@@ -179,6 +179,14 @@ blogsoft:
     url: https://wordpress.org/
     img: /images/logos/wordpress.ico
     description: Blog Tool, Publishing Platform, and CMS.
+  - name: Typecho
+    url: http://typecho.org/
+    img: /images/logos/typecho.ico
+    description: PHP+Mysql的博客程序。
+  - name: ZBlog
+    url: https://www.zblogcn.com/
+    img: /images/logos/zblog.ico
+    description: 开源免费、小巧强大的博客程序与CMS建站系统。
     
 cdn:
   - name: jsDelivr
