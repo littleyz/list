@@ -195,6 +195,14 @@ blogsoft:
     url: https://www.zblogcn.com/
     img: /images/logos/zblog.ico
     description: 开源免费、小巧强大的博客程序与CMS建站系统。
+  - name: Tipask
+    url: https://wenda.tipask.com/questions
+    img: /images/logos/tipask.ico
+    description: PHP问答系统,Tipask问答系统。
+  - name: Flarum
+    url: https://discuss.flarum.org/
+    img: /images/logos/flarum.png
+    description: 优雅简洁的轻论坛系统。
     
 cdn:
   - name: jsDelivr
