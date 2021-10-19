@@ -209,6 +209,10 @@ cdn:
     url: https://www.jsdelivr.com/
     img: /images/logos/jsdelivr.png
     description: A free, fast, and reliable CDN for open source.
+  - name: iconfont
+    url: https://www.iconfont.cn/
+    img: /images/logos/iconfont.ico
+    description: iconfont-阿里巴巴矢量图标库。
     
 cctvtools:
   - name: 海康安防计算器
