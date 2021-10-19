@@ -103,6 +103,10 @@ star:
     url: https://sspai.com/
     img: /images/logos/sspai.ico
     description: 高效工作，品质生活。
+  - name: 爱范儿ifanr
+    url: https://www.ifanr.com
+    img: /images/logos/ifanr.ico
+    description: 让未来触手可及。
 
 share:
   - name: 视听资源
