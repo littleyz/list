@@ -403,6 +403,14 @@ vms:
     url: http://www.csvision.cn/
     img: /images/logos/csv.ico
     description: 中盛益华。
+  - name: Genetec
+    url: https://www.genetec.com/
+    img: /images/logos/genetec.png
+    description: Genetec的是一家安防视频监控软件开发公司成立于1997年，总部设在加拿大。
+  - name: Milestone Systems
+    url: https://www.milestonesys.com/
+    img: /images/logos/milestonesys.ico
+    description: Milestone Systems成立于1998年，视频监控管理软件行业的领导者。
     
 supply:
   - name: 高新兴
