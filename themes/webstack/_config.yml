@@ -411,6 +411,10 @@ vms:
     url: https://www.milestonesys.com/
     img: /images/logos/milestonesys.ico
     description: Milestone Systems成立于1998年，视频监控管理软件行业的领导者。
+  - name: Motorola Solutions
+    url: https://www.motorolasolutions.com/
+    img: /images/logos/motorola.ico
+    description: 摩托罗拉系统，2011年由摩托罗拉公司分拆而来，核心市场是公共安全政府机构和商业企业。
     
 supply:
   - name: 高新兴
