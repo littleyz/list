@@ -467,6 +467,10 @@ sitemap:
     url: https://www.informationsecurity.com.tw/
     img: /images/logos/asis.ico
     description: 台湾安防资讯网站。
+  - name: A&S mag
+    url: https://www.asmag.com/
+    img: /images/logos/as.ico
+    description: The comprehensive security industry platform
     
 ir:
   - name: Teledyne FLIR
