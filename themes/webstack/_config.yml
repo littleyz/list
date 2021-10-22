@@ -457,6 +457,14 @@ wifi:
     url: http://www.av380.cn/
     img: /images/logos/av380.png
     description: 广州宏视，V380
+  - name: 萤石
+    url: https://www.ys7.com/
+    img: /images/logos/ys7.ico
+    description: 海康萤石
+  - name: 乐橙
+    url: https://cn.imoulife.com/web/
+    img: /images/logos/lechange.ico
+    description: 大华乐橙
     
 sitemap:
   - name: A&S台湾版
