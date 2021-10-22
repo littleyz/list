@@ -213,6 +213,10 @@ cdn:
     url: https://www.iconfont.cn/
     img: /images/logos/iconfont.ico
     description: iconfont-阿里巴巴矢量图标库。
+  - name: 字节跳动静态资源公共库
+    url: https://cdn.bytedance.com/
+    img: /images/logos/bytedance.png
+    description: 同步自cdnjs，支持多协议、资源动态拼接、快速检索及资源的动态更新。
     
 cctvtools:
   - name: 海康安防计算器
