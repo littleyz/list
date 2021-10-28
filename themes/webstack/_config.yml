@@ -485,6 +485,18 @@ ir:
     url: https://www.flir.cn/
     img: /images/logos/flir.ico
     description: 菲力尔，世界第六感。 
+  - name: 大立科技
+    url: https://www.dali-tech.com/
+    img: /images/logos/dali.ico
+    description: 专业红外热像仪,红外热成像,红外测温仪,人体测温仪厂家。 
+  - name: 优利德(UNI-T)
+    url: https://www.uni-trend.com.cn/
+    img: /images/logos/uni.ico
+    description: 红外热像仪，红外测温仪，红外热成像。 
+  - name: 朗驰欣创
+    url: http://www.launchdigital.net/
+    img: /images/logos/launchdigital.ico
+    description: 红外线测温仪，红外热成像设备，巡检机器人。 
     
 lens:
   - name: 富士镜头
