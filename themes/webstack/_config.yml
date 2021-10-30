@@ -225,6 +225,10 @@ cdn:
     url: https://cdn.bytedance.com/
     img: /images/logos/bytedance.png
     description: 同步自cdnjs，支持多协议、资源动态拼接、快速检索及资源的动态更新。
+  - name: Fontsource
+    url: https://fontsource.org/
+    img: /images/logos/fontsource.png
+    description: Self-host Open Source fonts in neatly bundled NPM packages.
     
 cctvtools:
   - name: 海康安防计算器
