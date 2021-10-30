@@ -495,6 +495,10 @@ sitemap:
     url: https://www.asmag.com/
     img: /images/logos/as.ico
     description: The comprehensive security industry platform.
+  - name: IPVM
+    url: https://ipvm.com/
+    img: /images/logos/ipvm.png
+    description: World's Leading Resource For Video Surveillance
     
 ir:
   - name: Teledyne FLIR
