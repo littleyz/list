@@ -471,6 +471,14 @@ wifi:
     description: 大华乐橙
     
 sitemap:
+  - name: 天一生水安防知识网
+    url: https://ipc.name
+    img: /images/logos/logo-t.png
+    description: 分享安防，视频监控知识，技术。
+  - name: 天一生水安防知识网网盘
+    url: https://box.ipc.name
+    img: /images/logos/logo-t.png
+    description: 天一生水安防知识网资源分享网盘。
   - name: A&S台湾版
     url: https://www.asmag.com.tw/
     img: /images/logos/as.ico
@@ -482,7 +490,7 @@ sitemap:
   - name: A&S mag
     url: https://www.asmag.com/
     img: /images/logos/as.ico
-    description: The comprehensive security industry platform
+    description: The comprehensive security industry platform.
     
 ir:
   - name: Teledyne FLIR
@@ -541,6 +549,14 @@ hdd:
     url: https://www.westerndigital.com/zh-cn
     img: /images/logos/wd.ico
     description: Western Digital。
+  - name: 海康存储
+    url: http://www.hikstorage.com/
+    img: /images/logos/hiks.ico
+    description: 海康威视出品的存储产品。
+  - name: 大华存储
+    url: https://www.dahuamemory.com/
+    img: /images/logos/dahuam.ico
+    description: 大华的存储产品，PK海康。
     
 org:
   - name: 国际电联
