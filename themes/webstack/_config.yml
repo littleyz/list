@@ -383,6 +383,14 @@ module:
     url: http://www.cnjabsco.com/
     img: /images/logos/jco.png
     description: 网络摄像机,NVR模组。
+  - name: 巨龙JVT
+    url: http://www.jvttech.com/
+    img: /images/logos/jvt.png
+    description: 巨龙，ipc模组，人脸识别，源自黄河。
+  - name: 芯睿视
+    url: http://www.ruision.com/
+    img: /images/logos/ruision.png
+    description: 睿视，芯睿视。同轴，IPC模组等。
 
 P2P:
   - name: UMEye
