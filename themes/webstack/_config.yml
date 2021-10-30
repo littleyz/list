@@ -175,6 +175,10 @@ devTools:
     url:  https://xbeibeix.com/api/bilibili/
     img: /images/logos/xbb.jpg
     description: 短视频，B站视频下载，视频格式转换，云储存。
+  - name: 腾讯文档
+    url:  https://docs.qq.com/
+    img: /images/logos/tdocs.ico
+    description: 支持多人在线编辑，分享文档。
 
 mysoft:
   - name: itellyou
