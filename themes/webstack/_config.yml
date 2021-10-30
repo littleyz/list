@@ -171,6 +171,10 @@ devTools:
     url:  https://fnd.io/
     img: /images/logos/fnd.png
     description: 搜素ios app。
+  - name: 贝贝工具
+    url:  https://xbeibeix.com/api/bilibili/
+    img: /images/logos/xbb.jpg
+    description: 短视频，B站视频下载，视频格式转换，云储存。
 
 mysoft:
   - name: itellyou
