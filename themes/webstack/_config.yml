@@ -579,6 +579,10 @@ org:
     url: https://webrtc.org/
     img: /images/logos/webrtc.png
     description: web that enables Real-Time Communications (RTC)
+  - name: AVS
+    url: http://www.avs.org.cn/
+    img: /images/logos/AVS_logo.jpg
+    description: 中国音视频编解码标准组织，AVS,AVS2,AVS3。
 
 about:
   url: https://www.jiangyu.org/
