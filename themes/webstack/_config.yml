@@ -179,6 +179,14 @@ devTools:
     url:  https://docs.qq.com/
     img: /images/logos/tdocs.ico
     description: 支持多人在线编辑，分享文档。
+  - name: 视频下载
+    url:  https://zh.savefrom.net/24/
+    img: /images/logos/savefrom.png
+    description:  支持从Youtube,Vimeo,Facebook等下载视频
+  - name: 格式转化
+    url:  https://convertio.co/zh/
+    img: /images/logos/convertio.png
+    description:  支持从文件，音频，视频等格式在线转换。
 
 mysoft:
   - name: itellyou
