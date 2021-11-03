@@ -227,6 +227,10 @@ blogsoft:
     url: https://discuz.chat/
     img: /images/logos/discuz.ico
     description: Discuz! Q
+  - name: FileRun
+    url: https://www.filerun.com/
+    img: /images/logos/filerun.ico
+    description: 个人网盘程序。
     
 cdn:
   - name: jsDelivr
