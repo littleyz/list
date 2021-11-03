@@ -441,6 +441,26 @@ P2P:
     url: https://tange.ai/
     img: /images/logos/tange.png
     description: iCam365。
+  - name: 汇云
+    url: http://www.smartcloudcon.com/
+    img: /images/logos/huiyun.gif
+    description: 汇云，牵心，CareCam。
+  - name: 技威
+    url: https://cloud.gwell.cc/
+    img: /images/logos/gwell.ico
+    description: yoosee，有看头，技威时代。
+  - name: 物联智慧TUTK
+    url: https://www.throughtek.cn/
+    img: /images/logos/tutk.png
+    description: TUTK，物联智慧，p2pcamlive，P2PViewCam。
+  - name: 登虹科技
+    url: https://open.closeli.cn
+    img: /images/logos/closeli.png
+    description: 登虹科技，closeli，爱加物联，YCC365 Plus/PixPlus。
+  - name: 云蚁物联
+    url: http://www.yunyiiot.com/
+    img: /images/logos/yiiot.ico
+    description: 云蚁物联，小蚁科技，YI IOT，yunyi IOT。
 
 vms:
   - name: 泰辰，致精
