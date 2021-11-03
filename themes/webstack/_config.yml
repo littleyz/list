@@ -237,6 +237,10 @@ cdn:
     url: https://fontsource.org/
     img: /images/logos/fontsource.png
     description: Self-host Open Source fonts in neatly bundled NPM packages.
+  - name: Github Dev
+    url: https://github.dev/
+    img: /images/logos/githubdev.png
+    description: 在线Github，用来当hexo的后台，写写文章挺好的。
     
 cctvtools:
   - name: 海康安防计算器
