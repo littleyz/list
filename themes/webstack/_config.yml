@@ -219,6 +219,14 @@ blogsoft:
     url: https://discuss.flarum.org/
     img: /images/logos/flarum.png
     description: 优雅简洁的轻论坛系统。
+  - name: Wecenter
+    url: https://wenda.wecenter.com/?www
+    img: /images/logos/wecenter.ico
+    description: 社交化问答系统。
+  - name: Discuz! Q
+    url: https://discuz.chat/
+    img: /images/logos/discuz.ico
+    description: Discuz! Q
     
 cdn:
   - name: jsDelivr
