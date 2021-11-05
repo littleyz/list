@@ -95,10 +95,6 @@ star:
     url: http://www.drbachinese.org/online_reading_simplified/
     img: /images/logos/drba.ico
     description: 佛教经文在线阅读及解读。
-  - name: 分享资源
-    url: https://box.jiangyu.org/
-    img: /images/logos/box.png
-    description: 存储于各大网盘的资源。
   - name: 少数派
     url: https://sspai.com/
     img: /images/logos/sspai.ico
@@ -109,14 +105,6 @@ star:
     description: 让未来触手可及。
 
 share:
-  - name: 视听资源
-    url: https://dropbox.jiangyu.org/
-    img: /images/logos/dropbox.png
-    description: 存储于阿里云网盘的视听资源。
-  - name: 分享资源
-    url: https://box.jiangyu.org/
-    img: /images/logos/box.png
-    description: 个人存储于各大网盘的资源。
   - name: 书格
     url: https://www.shuge.org/
     img: /images/logos/shuge.png
