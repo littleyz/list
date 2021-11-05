@@ -91,10 +91,10 @@ menu:
         icon: fas fa-sitemap
         config: org
 star:
-  - name: 视听资源
-    url: https://dropbox.jiangyu.org/
-    img: /images/logos/dropbox.png
-    description: 存储于阿里云网盘的视听资源。
+  - name: 法界佛教总会
+    url: http://www.drbachinese.org/online_reading_simplified/
+    img: /images/logos/drba.ico
+    description: 佛教经文在线阅读及解读。
   - name: 分享资源
     url: https://box.jiangyu.org/
     img: /images/logos/box.png
