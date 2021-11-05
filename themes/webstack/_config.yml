@@ -542,7 +542,15 @@ sitemap:
   - name: IPVM
     url: https://ipvm.com/
     img: /images/logos/ipvm.png
-    description: World's Leading Resource For Video Surveillance
+    description: World's Leading Resource For Video Surveillance。
+  - name: OFweek安防网
+    url: https://www.ofweek.com/security/
+    img: /images/logos/of.ico
+    description: OFweek安防网。
+  - name: iDS智慧安防杂志
+    url: http://www.idsmag.com.tw/
+    img: /images/logos/ids.ico
+    description: 聚焦台湾安防产业。
     
 ir:
   - name: Teledyne FLIR
