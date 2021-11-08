@@ -563,6 +563,14 @@ sitemap:
     url: http://www.idsmag.com.tw/
     img: /images/logos/ids.ico
     description: 聚焦台湾安防产业。
+  - name: SourceSecurity
+    url: https://www.sourcesecurity.com/
+    img: /images/logos/sourcesecurity.png
+    description: Security Products, Companies, News and Events.
+  - name: Security Info Watch
+    url: https://www.securityinfowatch.com/
+    img: /images/logos/securityinfowatch.png
+    description: Articles, news, products, blogs and videos from Security Info Watch.
     
 ir:
   - name: Teledyne FLIR
