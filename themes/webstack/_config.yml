@@ -663,6 +663,10 @@ org:
     url: http://www.avs.org.cn/
     img: /images/logos/AVS_logo.jpg
     description: 中国音视频编解码标准组织，AVS,AVS2,AVS3。
+  - name: 上海安防协会
+    url: http://www.sh-anfang.org/
+    img: /images/logos/shaf.ico
+    description: 上海安防协会。
 
 about:
   url: https://www.jiangyu.org/
