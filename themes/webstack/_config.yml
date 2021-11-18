@@ -493,6 +493,10 @@ supply:
     url: https://www.pcitech.com/en/index.html
     img: /images/logos/pci.ico
     description: 全球领先的智慧城市物联网产品与服务提供商。  
+  - name: 杰赛
+    url: http://www.chinagci.com
+    img: /images/logos/jiesai.ico
+    description: 杰赛科技。
     
 AI:
   - name: 商汤
