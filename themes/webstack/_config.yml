@@ -111,6 +111,10 @@ star:
     url: https://www.npm.edu.tw/Collection-Intro.aspx?sno=01000022&l=1
     img: /images/logos/npm.png
     description: 台北故宫博物院--藏品。
+  - name: 虎扑
+    url: https://www.hupu.com
+    img: /images/logos/hupu.ico
+    description: 虎扑体育网。
 
 share:
   - name: 书格
