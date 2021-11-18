@@ -683,6 +683,10 @@ org:
     url: https://www.ieee.org/
     img: /images/logos/ieee.png
     description: 电气与电子工程师协会。
+  - name: H.266 / VVC
+    url: https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html
+    img: /images/logos/hhi.ico
+    description: Fraunhofer HHI的H.266页面。
 
 about:
   url: https://www.jiangyu.org/
