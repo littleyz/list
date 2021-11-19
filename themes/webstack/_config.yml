@@ -115,6 +115,10 @@ star:
     url: https://www.hupu.com
     img: /images/logos/hupu.ico
     description: 虎扑体育网。
+  - name: 36kr-36氪
+    url: https://36kr.com/
+    img: /images/logos/36kr.ico
+    description: 36氪_让一部分人先看到未来。
 
 share:
   - name: 书格
