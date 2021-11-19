@@ -687,6 +687,14 @@ org:
     url: https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html
     img: /images/logos/hhi.ico
     description: Fraunhofer HHI的H.266页面。
+  - name: IEEE Computer Society
+    url: https://www.computer.org/
+    img: /images/logos/ieeecs.png
+    description: IEEE Computer Society.
+  - name: CVF
+    url: https://www.thecvf.com/
+    img: /images/logos/cvf.png
+    description: The Computer Vision Foundation.
 
 about:
   url: https://www.jiangyu.org/
