@@ -541,6 +541,26 @@ wifi:
     url: https://cn.imoulife.com/web/
     img: /images/logos/lechange.ico
     description: 大华乐橙
+  - name: ring
+    url: https://ring.com/
+    img: /images/logos/ring.png
+    description: Home Security Systems,Smart Home Automation
+  - name: arlo
+    url: https://www.arlo.com/asia/default.aspx
+    img: /images/logos/arlo.png
+    description: Wire-Free 4K and HD Smart Home Security Cameras, Security Lights, and Doorbells
+  - name: wyze
+    url: https://wyze.com/
+    img: /images/logos/wyze.png
+    description: Making Great Technology Accessible,Smart Home Devices
+  - name: alarm
+    url: https://international.alarm.com/adc/
+    img: /images/logos/alarm.png
+    description: Alarm.com
+  - name: nest
+    url: https://store.google.com/us/category/google_nest?hl=en-US
+    img: /images/logos/nest.png
+    description: Nest and Google Home.
     
 sitemap:
   - name: 天一生水安防知识网
