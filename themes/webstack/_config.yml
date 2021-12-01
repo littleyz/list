@@ -119,6 +119,10 @@ star:
     url: https://36kr.com/
     img: /images/logos/36kr.ico
     description: 36氪_让一部分人先看到未来。
+  - name: 什么值得买
+    url: https://post.smzdm.com/
+    img: /images/logos/smzdm.png
+    description: 什么值得买。
 
 share:
   - name: 书格
