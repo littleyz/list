@@ -515,6 +515,30 @@ vms:
     url: https://felenasoft.com/en/
     img: /images/logos/xeoma.png
     description: video surveillance software.
+  - name: Genius Vision
+    url: https://geniusvision.net/
+    img: /images/logos/geniusvision.ico
+    description: IP video management software.
+  - name: Anycam
+    url: https://anycam.io/
+    img: /images/logos/anycam.png
+    description: IP Camera Desktop App. Easy to setup and use. View &amp; Rec.
+  - name: DeskShare
+    url: https://www.deskshare.com/
+    img: /images/logos/deskshare.ico
+    description: Professional Video Surveillance Software With Support For Multiple IP Cameras.
+  - name: ContaCam
+    url: https://www.contaware.com/contacam.html
+    img: /images/logos/contacam.ico
+    description: a Video Surveillance Software and FreeVimager a Graphics Software.
+  - name: Blue Iris
+    url: https://blueirissoftware.com/
+    img: /images/logos/blueiris.png
+    description: Innovative Video Management Software (VMS).
+  - name: Ivideon
+    url: https://www.ivideon.com/
+    img: /images/logos/ivideon.ico
+    description: A cloud-based video surveillance solution for business and the home.
 
 supply:
   - name: 高新兴
