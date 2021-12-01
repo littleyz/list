@@ -499,6 +499,14 @@ vms:
     url: https://www.ispyconnect.com/
     img: /images/logos/ispy.png
     description: Open Source Camera Security Software.
+  - name: Netcam Studio
+    url: https://www.netcamstudio.com
+    img: /images/logos/netcamstudio.ico
+    description: Network Camera Surveillance Software.
+  - name: Security Eye
+    url: https://www.security-eye-software.com/
+    img: /images/logos/securityeye.png
+    description: Video Monitoring Software for Windows.
 
 
 supply:
