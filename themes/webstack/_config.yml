@@ -507,7 +507,14 @@ vms:
     url: https://www.security-eye-software.com/
     img: /images/logos/securityeye.png
     description: Video Monitoring Software for Windows.
-
+  - name: Perfect Surveillance
+    url: https://www.perfect-surveillance.com/
+    img: 
+    description: IP Camera Surveillance Software.
+  - name: Xeoma
+    url: https://felenasoft.com/en/
+    img: /images/logos/xeoma.png
+    description: video surveillance software.
 
 supply:
   - name: 高新兴
