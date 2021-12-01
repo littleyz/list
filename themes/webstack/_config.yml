@@ -491,7 +491,12 @@ vms:
     url: https://www.motorolasolutions.com/
     img: /images/logos/motorola.ico
     description: 摩托罗拉系统，2011年由摩托罗拉公司分拆而来，核心市场是公共安全政府机构和商业企业。
-    
+  - name: iSpy
+    url: https://www.ispyconnect.com/
+    img: /images/logos/ispy.png
+    description: Open Source Camera Security Software.
+
+
 supply:
   - name: 高新兴
     url: http://www.gosuncn.com/
