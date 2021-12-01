@@ -539,6 +539,14 @@ vms:
     url: https://www.ivideon.com/
     img: /images/logos/ivideon.ico
     description: A cloud-based video surveillance solution for business and the home.
+  - name: ZoneMinder
+    url: https://zoneminder.com/
+    img: /images/logos/zm.ico
+    description: A full-featured, open source, state-of-the-art video surveillance software system.
+  - name: C-MOR
+    url: https://www.c-mor.com/
+    img: /images/logos/cmor.ico
+    description: Video Surveillance.
 
 supply:
   - name: 高新兴
