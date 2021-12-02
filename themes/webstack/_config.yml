@@ -679,6 +679,10 @@ sitemap:
     url: https://www.securityinfowatch.com/
     img: /images/logos/securityinfowatch.png
     description: Articles, news, products, blogs and videos from Security Info Watch.
+  - name: IFSEC Global
+    url: https://www.ifsecglobal.com/
+    img: /images/logos/ifsec.png
+    description: Security and Fire News and Resources.
     
 ir:
   - name: Teledyne FLIR
