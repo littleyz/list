@@ -291,6 +291,10 @@ cctvtools:
     url: https://www.imatest.com/
     img: /images/logos/imatest.ico
     description: 图像质量分析软件。
+  - name: imatest
+    url: https://www.cctvcad.com/
+    img: /images/logos/cctvcad.ico
+    description: CCTV Design Software.
 
 video:
   - name: 海康威视
