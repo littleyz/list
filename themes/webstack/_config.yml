@@ -547,6 +547,26 @@ vms:
     url: https://www.c-mor.com/
     img: /images/logos/cmor.ico
     description: Video Surveillance.
+  - name: Freedom VMS
+    url: https://www.freedomvms.com/
+    img: /images/logos/freedom.ico
+    description: Australian made, designed, and supported VMS.
+  - name: Security Guard Systems
+    url: http://www.securityguardsystems.com/
+    img: /images/logos/sgs.ico
+    description: professional solution for home security systems.
+  - name: Visec
+    url: https://www.visec.com/
+    img: /images/logos/visec.png
+    description: Surveillance Software for IP and analog cameras.
+  - name: Shinobi
+    url: https://shinobi.video/
+    img: /images/logos/shinobi.png
+    description: Open Source CCTV software written in Node.JS.
+  - name: MotionEye
+    url: https://motion-project.github.io/
+    img: /images/logos/motion.png
+    description: Open source security camera software to monitor and record video from IP, cctv, webcams and even the PI camera.
 
 supply:
   - name: 高新兴
