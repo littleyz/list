@@ -133,6 +133,10 @@ share:
     url: https://asia.si.edu/collections/
     img: /images/logos/si.ico
     description: 弗瑞尔·赛克勒美术馆藏品。
+  - name: 观沧海
+    url: https://www.ageeye.cn/
+    img: /images/logos/ageeye.png
+    description: 历史地图分享。
 
 devTools:
   - name: Wetransfer
@@ -211,6 +215,10 @@ devTools:
     url:  https://vocalremover.org/ch/
     img: /images/logos/vr.ico
     description: 在线音频处理工具
+  - name: 在线抠图工具
+    url:  https://www.remove.bg/zh
+    img: /images/logos/rbg.png
+    description: 在线抠图工具
 
 mysoft:
   - name: itellyou
