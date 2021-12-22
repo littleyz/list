@@ -194,11 +194,23 @@ devTools:
   - name: 视频下载
     url:  https://zh.savefrom.net/24/
     img: /images/logos/savefrom.png
-    description:  支持从Youtube,Vimeo,Facebook等下载视频
+    description: 支持从Youtube,Vimeo,Facebook等下载视频
   - name: 格式转化
     url:  https://convertio.co/zh/
     img: /images/logos/convertio.png
-    description:  支持从文件，音频，视频等格式在线转换。
+    description: 支持从文件，音频，视频等格式在线转换。
+  - name: 免费在线图片编辑器
+    url:  https://photokit.com/editor/?lang=zh
+    img: /images/logos/photokit.ico
+    description: 在线抠图、改图、修图、美图。
+  - name: 在线录屏工具
+    url:  https://recordscreen.io/
+    img: /images/logos/rs.png
+    description: Record your screen right from the browser.No installation required.
+  - name: 在线音频处理工具
+    url:  https://vocalremover.org/ch/
+    img: /images/logos/vr.ico
+    description: 在线音频处理工具
 
 mysoft:
   - name: itellyou
