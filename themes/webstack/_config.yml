@@ -425,6 +425,10 @@ dsp:
     url: https://www.rock-chips.com/
     img: /images/logos/rk.ico
     description: 代表产品RV1109,RV1126。
+  - name: 亿智电子
+    url: http://www.eeasytech.com/
+    img: /images/logos/eet.ico
+    description: AI机器视觉算法和SoC芯片设计，视像安防、汽车电子、智能硬件。
 
 module:
   - name: 天视通
