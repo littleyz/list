@@ -219,6 +219,10 @@ devTools:
     url:  https://www.remove.bg/zh
     img: /images/logos/rbg.png
     description: 在线抠图工具
+  - name: Hugging Face
+    url:  https://huggingface.co/spaces/akhaliq/GFPGAN
+    img: /images/logos/hf.ico
+    description: 老照片修复
 
 mysoft:
   - name: itellyou
