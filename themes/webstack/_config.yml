@@ -777,10 +777,10 @@ hdd:
     url: http://www.hikstorage.com/
     img: /images/logos/hiks.ico
     description: 海康威视出品的存储产品。
-  - name: 大华存储
-    url: https://www.dahuamemory.com/
-    img: /images/logos/dahuam.ico
-    description: 大华的存储产品，PK海康。
+  - name: 东芝
+    url: https://toshiba.semicon-storage.com/ap-en/top.html
+    img: /images/logos/toshiba.ico
+    description: 东芝存储产品。
     
 org:
   - name: 国际电联
