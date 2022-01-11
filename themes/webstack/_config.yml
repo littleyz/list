@@ -613,6 +613,10 @@ supply:
     url: http://www.chinagci.com
     img: /images/logos/jiesai.ico
     description: 杰赛科技。
+  - name: 浩云科技
+    url: http://www.haoyuntech.com/
+    img: /images/logos/haoyun.png
+    description: 浩云科技,专注国内银行，金融行业安防解决方案。
     
 AI:
   - name: 商汤
