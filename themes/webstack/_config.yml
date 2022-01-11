@@ -631,6 +631,10 @@ AI:
     url: https://www.megvii.com/
     img: /images/logos/mg.ico
     description: 旷视。
+  - name: 像素数据
+    url: http://www.pixelall.com/
+    img: /images/logos/pixelall.ico
+    description: 专注于人脸识别的行业应用。
  
 wifi:
   - name: 超级看看
