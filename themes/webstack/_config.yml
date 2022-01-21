@@ -429,6 +429,10 @@ dsp:
     url: http://www.eeasytech.com/
     img: /images/logos/eet.ico
     description: AI机器视觉算法和SoC芯片设计，视像安防、汽车电子、智能硬件。
+  - name: 酷芯微电子
+    url: http://www.artosyn.cn/
+    img: /images/logos/arto.ico
+    description: 高性能低功耗芯片及相关工具链解决方案。
 
 module:
   - name: 天视通
