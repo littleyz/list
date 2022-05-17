@@ -884,13 +884,13 @@ js:
   lozad: /js/lozad.min.js
   html5shiv: /js/html5shiv.min.js
   respond: /js/respond.min.js
-  busuanzi: https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.js
+  busuanzi: https://unpkg.com/busuanzi@2.3.0/bsz.pure.mini.js
 
 css:
   hclonely: /css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
   linecons: /css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css
+  fontawesome: https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-y/font-awesome/5.15.4/css/all.min.css
   bootstrap: /css/bootstrap.min.css
   xenonCore: /css/xenon-core.min.css
   xenonComponents: /css/xenon-components.min.css
