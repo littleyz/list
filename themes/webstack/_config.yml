@@ -137,6 +137,10 @@ share:
     url: https://www.ageeye.cn/
     img: /images/logos/ageeye.png
     description: 历史地图分享。
+  - name: 广州图书馆资源
+    url: https://www.gzlib.org.cn/digitalresources.jhtml
+    img: https://www.gzlib.org.cn/r/cms/www/t_logo.ico
+    description: 广州图书馆数字资源分享。
 
 devTools:
   - name: Wetransfer
