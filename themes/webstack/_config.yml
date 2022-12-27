@@ -237,7 +237,11 @@ mysoft:
     url: https://www.appinn.com/
     img: /images/logos/appinn.png
     description: 分享免费、小巧、实用、有趣、绿色的软件。
-
+  - name: 异次元软件
+    url: https://www.iplaysoft.com/
+    img: https://cdn.iplaysoft.com/ips/icon/favicon-v1/96.png
+    description: 极具人气和特色的软件网站！
+    
 blogsoft:
   - name: WordPress
     url: https://wordpress.org/
