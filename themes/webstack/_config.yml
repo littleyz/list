@@ -241,6 +241,10 @@ mysoft:
     url: https://www.iplaysoft.com/
     img: /images/logos/iplaysoft.png
     description: 极具人气和特色的软件网站！
+ - name: 多特软件站
+    url: https://www.duote.com/
+    img: /images/logos/duote.ico
+    description: 很多年前下载frontpage的地方！
 
 blogsoft:
   - name: WordPress
