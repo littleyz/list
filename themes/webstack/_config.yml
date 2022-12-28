@@ -235,6 +235,10 @@ devTools:
     url:  https://tool.lu/
     img: /images/logos/toollu.png
     description: 在线工具。
+  - name: 字帖生成工具
+    url:  https://danmoshui.com/
+    img: /images/logos/zitie.ico
+    description: 田字格，米字格，英文，拼音等字帖在线生成。
 
 mysoft:
   - name: itellyou
