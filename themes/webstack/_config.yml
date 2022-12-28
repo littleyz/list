@@ -795,6 +795,10 @@ lens:
     url: http://www.seiko-optic.com/seiko/indexcn.html
     img: /images/logos/seiko.jpg
     description: 日本精工镜头。
+  - name: 中润光学
+    url: http://www.zmax-opt.com/
+    img: /images/logos/zmax.ico
+    description: 嘉兴中润光学。
     
 hdd:
   - name: 希捷
