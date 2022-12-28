@@ -227,6 +227,10 @@ devTools:
     url:  https://huggingface.co/spaces/akhaliq/GFPGAN
     img: /images/logos/hf.ico
     description: 老照片修复
+  - name: 微信文件传输助手
+    url:  https://filehelper.weixin.qq.com/
+    img: /images/logos/filehelper.ico
+    description: 使用文件传输助手，手机电脑轻松互传文件。
 
 mysoft:
   - name: itellyou
