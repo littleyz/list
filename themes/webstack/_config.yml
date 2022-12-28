@@ -239,6 +239,10 @@ devTools:
     url:  https://danmoshui.com/
     img: /images/logos/zitie.ico
     description: 田字格，米字格，英文，拼音等字帖在线生成。
+  - name: 手绘思维导图
+    url:  https://excalidraw.com/
+    img: /images/logos/excalidraw.png
+    description: 手绘思维导图。
 
 mysoft:
   - name: itellyou
