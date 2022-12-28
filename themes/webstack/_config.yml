@@ -483,6 +483,10 @@ module:
     url: http://www.ruision.com/
     img: /images/logos/ruision.png
     description: 睿视，芯睿视。同轴，IPC模组等。
+  - name: 海芯
+    url: http://www.hichip.net/index.html
+    img: /images/logos/hichip.png
+    description: 高清4G/插卡模组,变焦/全景模组,IPC配件,低功耗节能模组。
 
 P2P:
   - name: UMEye
