@@ -231,6 +231,10 @@ devTools:
     url:  https://filehelper.weixin.qq.com/
     img: /images/logos/filehelper.ico
     description: 使用文件传输助手，手机电脑轻松互传文件。
+  - name: 在线工具
+    url:  https://tool.lu/
+    img: /images/logos/toollu.png
+    description: 在线工具。
 
 mysoft:
   - name: itellyou
