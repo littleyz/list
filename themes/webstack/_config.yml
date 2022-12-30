@@ -261,6 +261,10 @@ mysoft:
     url: https://www.duote.com/
     img: /images/logos/duote.ico
     description: 很多年前下载frontpage的地方！
+  - name: 数码荔枝软件商店
+    url: https://store.lizhi.io/index.php
+    img: /images/logos/lizhi.png
+    description: 专注于分享最新鲜优秀的正版软件。
 
 blogsoft:
   - name: WordPress
