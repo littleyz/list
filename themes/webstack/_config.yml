@@ -243,6 +243,10 @@ devTools:
     url:  https://excalidraw.com/
     img: /images/logos/excalidraw.png
     description: 手绘思维导图。
+  - name: 表格转换工具
+    url:  https://tableconvert.com/zh-cn/
+    img: /images/logos/tableconvert.png
+    description: 在线表格转换工具。
 
 mysoft:
   - name: itellyou
