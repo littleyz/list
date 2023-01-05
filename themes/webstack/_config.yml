@@ -405,7 +405,7 @@ sensor:
     description: 被安森美收购，产品型号以AR开头。
   - name: 成都微光集电
     url: http://www.imagedesign.com.cn/col.jsp?id=101
-    img: /images/logos/
+    img: /images/logos/imagedesign.png
     description: 成都微光集电，imagedesign，imgds，产品型号以MIS开头。
 
 dsp:
