@@ -251,6 +251,10 @@ devTools:
     url:  https://zlib.knat.network/
     img: /images/logos/zlib.ico
     description: z-lib图书搜索。
+  - name: 影子图书馆
+    url:  https://zh.annas-archive.org/
+    img: /images/logos/annas.png
+    description: 另一个z-lib图书搜索。
 
 mysoft:
   - name: itellyou
