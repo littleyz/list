@@ -247,6 +247,10 @@ devTools:
     url:  https://tableconvert.com/zh-cn/
     img: /images/logos/tableconvert.png
     description: 在线表格转换工具。
+  - name: z-lib图书搜索
+    url:  https://zlib.knat.network/
+    img: /images/logos/zlib.ico
+    description: z-lib图书搜索。
 
 mysoft:
   - name: itellyou
