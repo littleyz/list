@@ -255,6 +255,10 @@ devTools:
     url:  https://zh.annas-archive.org/
     img: /images/logos/annas.png
     description: 另一个z-lib图书搜索。
+  - name: 一份爱小工具
+    url:  https://www.an2.net/
+    img: /images/logos/an2.ico
+    description: 另一个字帖生成工具。
 
 mysoft:
   - name: itellyou
