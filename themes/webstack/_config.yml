@@ -751,10 +751,10 @@ sitemap:
     url: https://ipc.name
     img: /images/logos/logo-t.png
     description: 分享安防，视频监控知识，技术。
-  - name: 天一生水安防知识网网盘
-    url: https://box.ipc.name
-    img: /images/logos/logo-t.png
-    description: 天一生水安防知识网资源分享网盘。
+  - name: 天一生水@存储
+    url: https://dropbox.jiangyu.org
+    img: https://cdn.jiangyu.org/dropbox/icon.png
+    description: 天一生水资源分享网盘。
   - name: A&S台湾版
     url: https://www.asmag.com.tw/
     img: /images/logos/as.ico
