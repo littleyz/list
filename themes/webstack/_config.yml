@@ -577,6 +577,10 @@ P2P:
     url: https://www.ubianet.com/
     img: /images/logos/ubia.ico
     description: i-cam,ubell,ubox
+  - name: 普维
+    url: https://www.puwell.com/
+    img: /images/logos/IPC360.jpeg
+    description: IPC360 home,IPC360
 
 vms:
   - name: 泰辰，致精
