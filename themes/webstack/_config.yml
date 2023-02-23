@@ -573,6 +573,10 @@ P2P:
     url: http://www.yunyiiot.com/
     img: /images/logos/yiiot.ico
     description: 云蚁物联，小蚁科技，YI IOT，yunyi IOT。
+  - name: 庆视互联
+    url: https://www.ubianet.com/
+    img: /images/logos/ubia.ico
+    description: i-cam,ubell,ubox
 
 vms:
   - name: 泰辰，致精
