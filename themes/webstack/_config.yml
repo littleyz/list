@@ -707,6 +707,10 @@ AI:
     url: http://www.pixelall.com/
     img: /images/logos/pixelall.ico
     description: 专注于人脸识别的行业应用。
+  - name: 百度AI开放平台
+    url: https://ai.baidu.com/
+    img: /images/logos/baiduai.ico
+    description: 全球领先的人工智能服务平台。
  
 wifi:
   - name: 超级看看
