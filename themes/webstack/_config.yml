@@ -531,6 +531,10 @@ module:
     url: http://www.hichip.net/index.html
     img: /images/logos/hichip.png
     description: 高清4G/插卡模组,变焦/全景模组,IPC配件,低功耗节能模组。
+  - name: 恩智
+    url: https://www.ezhdt.cn/
+    img: /images/logos/enz.png
+    description: 美电恩智前身，早期oem NVR，现在全系列模组。
 
 P2P:
   - name: UMEye
