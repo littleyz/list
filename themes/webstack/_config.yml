@@ -267,6 +267,10 @@ devTools:
     url:  https://tool.browser.qq.com/
     img: /images/logos/bangxiaomang.ico
     description: 帮小忙，腾讯在线工具箱平台。
+  - name: 视频去水印下载
+    url:  https://4ss.cc/
+    img: /images/logos/4ss.cc.ico
+    description: 各大视频平台视频去水印下载。
 
 mysoft:
   - name: itellyou
