@@ -279,6 +279,10 @@ devTools:
     url:  https://bilibili.iiilab.com/
     img: /images/logos/iiilab.ico
     description: 支持众多的视频网站，app视频解析下载。
+  - name: mermaid
+    url:  https://mermaid.live/
+    img: /images/logos/mermaid.svg
+    description: markdown方式制作流程图，时序图，甘特图等，可导出为png或者svg格式。
 
 mysoft:
   - name: itellyou
