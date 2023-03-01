@@ -275,6 +275,10 @@ devTools:
     url:  https://doocs.gitee.io/md/
     img: /images/logos/mp-markdown.png
     description: 微信公众号Markdown编辑器。
+  - name: 视频解析下载
+    url:  https://bilibili.iiilab.com/
+    img: /images/logos/iiilab.ico
+    description: 支持众多的视频网站，app视频解析下载。
 
 mysoft:
   - name: itellyou
