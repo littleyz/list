@@ -283,6 +283,10 @@ devTools:
     url:  https://mermaid.live/
     img: /images/logos/mermaid.svg
     description: markdown方式制作流程图，时序图，甘特图等，可导出为png或者svg格式。
+  - name: 腾讯智影
+    url:  https://zenvideo.qq.com/
+    img: /images/logos/zenvideo.ico
+    description: 集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的在线剪辑平台。
 
 mysoft:
   - name: itellyou
