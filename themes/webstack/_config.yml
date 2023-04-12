@@ -287,6 +287,10 @@ devTools:
     url:  https://zenvideo.qq.com/
     img: /images/logos/zenvideo.ico
     description: 集素材搜集、视频剪辑、后期包装、渲染导出和发布于一体的在线剪辑平台。
+  - name: 剪映
+    url:  https://www.capcut.cn/web
+    img: /images/logos/lv_web.ico
+    description: 抖音剪映在线版。
 
 mysoft:
   - name: itellyou
