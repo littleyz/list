@@ -180,8 +180,8 @@ devTools:
     img: /images/logos/smms.ico
     description: SM.MS图床，loli图床。
   - name: APK下载
-    url:  https://apkdl.in/
-    img: /images/logos/apkdl.ico
+    url:  https://apkpure.com/cn/
+    img: /images/logos/apkpure.ico
     description: 下载apk安装包。
   - name: 语雀
     url:  https://www.yuque.com/
@@ -369,6 +369,10 @@ cdn:
     url: https://github.dev/
     img: /images/logos/githubdev.png
     description: 在线Github，用来当hexo的后台，写写文章挺好的。
+ - name: vscode Dev
+    url: https://vscode.dev
+    img: /images/logos/vscode.ico
+    description: 同Github Dev。
     
 cctvtools:
   - name: 海康安防计算器
