@@ -369,7 +369,7 @@ cdn:
     url: https://github.dev/
     img: /images/logos/githubdev.png
     description: 在线Github，用来当hexo的后台，写写文章挺好的。
- - name: vscode Dev
+  - name: vscode Dev
     url: https://vscode.dev
     img: /images/logos/vscode.ico
     description: 同Github Dev。
