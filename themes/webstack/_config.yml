@@ -291,6 +291,10 @@ devTools:
     url:  https://www.capcut.cn/web
     img: /images/logos/lv_web.ico
     description: 抖音剪映在线版。
+  - name: transfer.zip
+    url:  https://transfer.zip/
+    img: 
+    description: 基于浏览器，使用WebRTC技术，点对点远程传输分享文件。
 
 mysoft:
   - name: itellyou
