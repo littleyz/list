@@ -295,6 +295,10 @@ devTools:
     url:  https://transfer.zip/
     img: 
     description: 基于浏览器，使用WebRTC技术，点对点远程传输分享文件。
+  - name: Photopea
+    url:  https://www.photopea.com/
+    img: /images/logos/photopea.png
+    description: 免费的在线图像编辑器，支持PSD、XCF、Sketch、 XD、CDR等格式。
 
 mysoft:
   - name: itellyou
