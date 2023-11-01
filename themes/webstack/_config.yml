@@ -529,6 +529,10 @@ dsp:
     url: http://www.artosyn.cn/
     img: /images/logos/arto.ico
     description: 高性能低功耗芯片及相关工具链解决方案。
+  - name: 爱芯元智
+    url: https://www.axera-tech.com/
+    img: /images/logos/axera-tech.ico
+    description: 2019年成立的芯片厂家，AI-ISP比较有特色。
 
 module:
   - name: 天视通
