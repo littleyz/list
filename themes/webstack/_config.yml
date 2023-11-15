@@ -847,6 +847,11 @@ sitemap:
     url: https://www.ifsecglobal.com/
     img: /images/logos/ifsec.png
     description: Security and Fire News and Resources.
+  - name: DPReview
+    url: https://www.dpreview.com/
+    img: /images/logos/dpreview.png
+    description: Digital Photography Review.
+
     
 ir:
   - name: Teledyne FLIR
