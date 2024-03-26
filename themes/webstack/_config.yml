@@ -575,6 +575,10 @@ module:
     url: https://www.ezhdt.cn/
     img: /images/logos/enz.png
     description: 美电恩智前身，早期oem NVR，现在全系列模组。
+  - name: 杰峰
+    url: https://www.jftech.com
+    img: /images/logos/jiefeng.ico
+    description: 雄迈，巨峰之后另一个公司名字。
 
 P2P:
   - name: UMEye
