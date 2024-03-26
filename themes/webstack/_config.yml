@@ -41,6 +41,9 @@ menu:
       - name: 建站资源
         icon: fab fa-keycdn
         config: cdn
+      - name: 静态资源
+        icon: fab fa-keycdn
+        config: static
 
   - name: 安防行业
     icon: fas fa-shield-alt
@@ -381,7 +384,17 @@ cdn:
     url: https://vscode.dev
     img: /images/logos/vscode.ico
     description: 同Github Dev。
-    
+
+static:
+  - name: BootCDN
+    url: https://www.bootcdn.cn/
+    img: /images/logos/bootcdn.ico
+    description: 同步于CDNJS源。
+  - name: Staticfile CDN
+    url: https://staticfile.net/
+    img: /images/logos/staticfile.ico
+    description: 似乎是bootcdn的复制版。
+  
 cctvtools:
   - name: 海康安防计算器
     url: https://h5proxy.hikvision.com/jf/videocal/index.html#/
