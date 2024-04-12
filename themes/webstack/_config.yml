@@ -476,6 +476,10 @@ sensor:
     url: http://www.imagedesign.com.cn/col.jsp?id=101
     img: /images/logos/imagedesign.png
     description: 成都微光集电，imagedesign，imgds，产品型号以MIS开头。
+  - name: CVSENS创视微
+    url: http://www.cvsens.com/
+    img: /images/logos/cvsens.ico
+    description: 总部位于深圳的CMOS图像传感器研发，设计，服务的企业。
 
 dsp:
   - name: 华为海思
@@ -546,6 +550,14 @@ dsp:
     url: https://www.axera-tech.com/
     img: /images/logos/axera-tech.ico
     description: 2019年成立的芯片厂家，AI-ISP比较有特色。
+  - name: 晶晨amlogic
+    url: https://www.amlogic.cn/
+    img: /images/logos/amlogic.ico
+    description: 2007年成立，起源于美国硅谷。 
+  - name: 湖南兴芯微电子x-chip
+    url: http://www.x-chip.cn/
+    img: /images/logos/x-chip.png
+    description: 成立于2018年6月，注于图像视觉芯片研发、设计、销售。
 
 module:
   - name: 天视通
