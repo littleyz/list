@@ -445,7 +445,7 @@ video:
 
 sensor:
   - name: SONY
-    url: https://www.sony-semicon.co.jp/e/
+    url: https://www.sony-semicon.com/cn/index.html
     img: /images/logos/sony.ico
     description: SONY图像传感器。
   - name: OmniVision
