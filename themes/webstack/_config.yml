@@ -394,6 +394,10 @@ static:
     url: https://staticfile.net/
     img: /images/logos/staticfile.ico
     description: 似乎是bootcdn的复制版。
+  - name: npmmirror 镜像站
+    url: https://www.npmmirror.com/
+    img: /images/logos/npmmirror.ico
+    description: 完整 npmjs.com 镜像，可以用此代替官方版本(只读)。
   
 cctvtools:
   - name: 海康安防计算器
