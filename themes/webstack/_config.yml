@@ -302,6 +302,10 @@ devTools:
     url:  https://www.photopea.com/
     img: /images/logos/photopea.png
     description: 免费的在线图像编辑器，支持PSD、XCF、Sketch、 XD、CDR等格式。
+  - name: 无损生活
+    url:  https://flac.life/
+    img: /images/logos/flaclife.png
+    description: 无损音乐下载。
 
 mysoft:
   - name: itellyou
