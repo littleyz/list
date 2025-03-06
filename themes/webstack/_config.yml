@@ -144,6 +144,10 @@ share:
     url: https://www.gzlib.org.cn/digitalresources.jhtml
     img: https://www.gzlib.org.cn/r/cms/www/t_logo.ico
     description: 广州图书馆数字资源分享。
+  - name: 国家大剧院-古典音乐频道
+    url: https://www.ncpa-classic.com/digitalrecords/index.shtml
+    img: https://www.ncpa-classic.com/favicon.ico
+    description: 国家大剧院古典音乐频道，最新的演出，经典的音乐。
 
 devTools:
   - name: Wetransfer
